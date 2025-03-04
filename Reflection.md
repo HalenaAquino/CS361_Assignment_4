@@ -2,7 +2,7 @@ __Reflection -__
 
 Summary: 
 
-This assignment provided a hands-on approach to identifying, exploiting, and mitigating vulnerabilities within OWASP Juice Shop, a deliberately insecure web application. Throughout the assignment, I explored common vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Insecure Direct Object References (IDOR), Broken Authentication, and Directory Traversal. By using tools like Burp Suite, Developer Tools, and manual testing, I was able to exploit these vulnerabilities and gain a deeper understanding of how attackers manipulate web applications. Additionally, documenting countermeasures, such as input validation, proper authentication mechanisms, and secure session handling, helped reinforce the importance of proactive security measures in web development. Overall, this assignment strengthened my understanding of ethical hacking, web security best practices, and the importance of securing applications.
+This sandbox provided a hands-on approach to identifying, exploiting, and mitigating vulnerabilities within OWASP Juice Shop, a deliberately insecure web application. Throughout the assignment, I explored common vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Insecure Direct Object References (IDOR), Broken Authentication, and Directory Traversal. By using tools like Burp Suite, Developer Tools, and manual testing, I was able to exploit these vulnerabilities and gain a deeper understanding of how attackers manipulate web applications. Additionally, documenting countermeasures, such as input validation, proper authentication mechanisms, and secure session handling, helped reinforce the importance of proactive security measures in web development. Overall, this assignment strengthened my understanding of ethical hacking, web security best practices, and the importance of securing applications, allowing me to provide better cybersecurity for ShopSmart Solutions.
 
 ---
 
@@ -18,4 +18,4 @@ Key secure coding principles:
 - Error Handling & Logging – Ensures sensitive system information is not exposed in error messages and enables early detection of attacks
 - Regular Security Testing & Audits – Helps identify vulnerabilities before attackers do, ensuring continuous security improvements
 
-By integrating these secure coding practices, developers can significantly reduce vulnerabilities, ensuring web applications remain resilient against cyber threats and attacks. This assignment reinforced the idea that security should be an integral part of the development lifecycle.
+By integrating these secure coding practices, ShopSmart Solutions developers can significantly reduce vulnerabilities, ensuring web applications remain resilient against cyber threats and attacks. This assignment reinforced the idea that security should be an integral part of the development lifecycle.
